@@ -6,10 +6,10 @@ I used the data to understand sales, orders, customers, products and delivery pe
 
 ## Tools Used
 
--MySQL
--SQL
--Power BI
--Tableau
+MySQL
+SQL
+Power BI
+Tableau
 
 ## What I Analyzed
 
