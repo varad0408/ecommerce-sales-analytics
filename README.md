@@ -6,13 +6,10 @@ I used the data to understand sales, orders, customers, products and delivery pe
 
 ## Tools Used
 
-MySQL
-
-SQL
-
-Power BI
-
-Tableau
+-MySQL
+-SQL
+-Power BI
+-Tableau
 
 ## What I Analyzed
 
@@ -77,7 +74,7 @@ ecommerce_analysis.sql contains the SQL queries used for the analysis.
 
 ecommerce_analysis.pbix contains the Power BI dashboard.
 
-ecommerce_analysis.twbx contains the Tableau workbook.
+ecommerce_analysis.twb contains the Tableau workbook.
 
 The PNG files contain screenshots of the dashboards.
 
